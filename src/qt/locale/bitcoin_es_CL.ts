@@ -483,13 +483,13 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="311"/>
-        <source>Tabs toolbar</source>
-        <translation>Barra de pestañas</translation>
+        <source>Tabs toolslg</source>
+        <translation>slgra de pestañas</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="322"/>
-        <source>Actions toolbar</source>
-        <translation>Barra de acciónes</translation>
+        <source>Actions toolslg</source>
+        <translation>slgra de acciónes</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="334"/>
@@ -898,7 +898,7 @@ Dirección: %4</translation>
     <message>
         <location filename="../forms/messagepage.ui" line="114"/>
         <source>Sign a message to prove you own this address</source>
-        <translation>Firmar un mensjage para probar que usted es dueño de esta dirección</translation>
+        <translation>Firmar un mensjage para proslg que usted es dueño de esta dirección</translation>
     </message>
     <message>
         <location filename="../forms/messagepage.ui" line="117"/>
@@ -1950,8 +1950,8 @@ Dirección: %4</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="316"/>
-        <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;Minimiza a la bandeja en vez de la barra de tareas</translation>
+        <source>&amp;Minimize to the tray instead of the taskslg</source>
+        <translation>&amp;Minimiza a la bandeja en vez de la slgra de tareas</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="317"/>

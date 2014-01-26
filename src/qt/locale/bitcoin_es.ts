@@ -483,13 +483,13 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="311"/>
-        <source>Tabs toolbar</source>
-        <translation>Barra de pestañas</translation>
+        <source>Tabs toolslg</source>
+        <translation>slgra de pestañas</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="322"/>
-        <source>Actions toolbar</source>
-        <translation>Barra de acciones</translation>
+        <source>Actions toolslg</source>
+        <translation>slgra de acciones</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="334"/>
@@ -1949,8 +1949,8 @@ Dirección: %4</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="316"/>
-        <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;Minimiza a la bandeja en vez de la barra de tareas</translation>
+        <source>&amp;Minimize to the tray instead of the taskslg</source>
+        <translation>&amp;Minimiza a la bandeja en vez de la slgra de tareas</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="317"/>
@@ -2204,7 +2204,7 @@ Dirección: %4</translation>
     <message>
         <location filename="../bitcoinstrings.cpp" line="104"/>
         <source>How many blocks to check at startup (default: 2500, 0 = all)</source>
-        <translation>Cuántos bloques para comprobar en el arranque (por defecto: 2500, 0 = todos)</translation>
+        <translation>Cuántos bloques para comproslg en el arranque (por defecto: 2500, 0 = todos)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="105"/>

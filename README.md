@@ -1,3 +1,3 @@
-FooCoin (FOO)
+slugcoin (slg)
 
 Blah, blah, blah.
